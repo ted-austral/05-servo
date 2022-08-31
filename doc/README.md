@@ -13,6 +13,7 @@
     Shows how to position servo continously each 45 degrees
     Using an ESP32 development board
 
+### Hardware
 
     1 Micro Servo Motor S0009
     Jumper wires
