@@ -5,12 +5,11 @@
 
 # Project 05-servo
 
-##  Position servo each 45 degrees
+##  Position servo as per angle table
 
     IntroCom - Austral - 2022 - EAM
     Uses ESP32 microcontroller
 
-    Shows how to position servo continously each 45 degrees
     Using an ESP32 development board
 
 ### Hardware
@@ -26,32 +25,22 @@
 
 ###  Verification
 
-    Each second, servo changes position adding 45 degrees and showing it in serial monitor
+    Each second, servo changes position as per table and showing it in serial monitor
 
 ###  Links
 
-####    ESP32 i/o - ESP32 Servo Motor
+[ESP32 i/o - ESP32 Servo Motor](https://esp32io.com/tutorials/esp32-servo-motor)
 
-    https://esp32io.com/tutorials/esp32-servo-motor
+[PlatformIO docs - Library Management](https://docs.platformio.org/en/stable/librarymanager/index.html)
 
-####    PlatformIO docs - Library Management
-
-    https://docs.platformio.org/en/stable/librarymanager/index.html 
-
-####    PlatformIO Community - How to include Arduino Library in PlatformIO?
-
-    https://community.platformio.org/t/how-to-include-arduino-library-in-platformio/15146
+[PlatformIO Community - How to include Arduino Library in PlatformIO](https://community.platformio.org/t/how-to-include-arduino-library-in-platformio/15146)
 
 
 ### Videos
 
-####    Como funciona un servomotor
+[Como funciona un servomotor](https://www.youtube.com/watch?v=mk9UkQCeENc&t=211s)
 
-    https://www.youtube.com/watch?v=mk9UkQCeENc&t=211s
-
-####    Using Servo Motors - SG90 (ESP32 + PlatformIO) Shows how to load a library
-
-    https://www.youtube.com/watch?v=dJAlkrXbfbQ
+[Using Servo Motors - SG90 (ESP32 + PlatformIO)](https://www.youtube.com/watch?v=dJAlkrXbfbQ)
         
 
 

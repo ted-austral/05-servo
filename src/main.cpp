@@ -3,7 +3,7 @@
  *
  * 
  *       IntroCom - Austral - 2022 - EAM
- *       Shows how a servo is positioned each 45 degrees
+ *       Shows how a servo is positioned as per table
  *       Using ESP32 development board
  *
  *       Uses a C++ library for ESP32 servo
